@@ -1,3 +1,1 @@
-export function MainPage() {
-  return <div>Main</div>;
-}
+export { ListPage } from './ui/ListPage';
